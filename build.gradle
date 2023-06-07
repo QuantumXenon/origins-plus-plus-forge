@@ -13,6 +13,14 @@ dependencies {
     minecraft("net.minecraftforge:forge:${project.minecraft_version}-${project.forge_version}")
 }
 
+sourceSets {
+    main {
+        resources {
+            srcDirs("src/main/forge")
+        }
+    }
+}
+
 processResources {
     exclude(".github")
     filesMatching("META-INF/mods.toml") {
