@@ -16,7 +16,7 @@ dependencies {
 sourceSets {
     main {
         resources {
-            srcDirs("src/main/forge","src/main/origins-plus-plus")
+            srcDirs("src/main/origins-plus-plus")
         }
     }
 }
