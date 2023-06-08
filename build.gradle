@@ -22,7 +22,7 @@ sourceSets {
 }
 
 processResources {
-    exclude(".github")
+    exclude(".github","README.md")
     filesMatching("META-INF/mods.toml") {
         expand("version": project.version)
     }
