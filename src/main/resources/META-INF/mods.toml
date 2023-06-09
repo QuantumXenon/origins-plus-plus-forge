@@ -17,7 +17,7 @@ logoFile = "icon.png"
 [[dependencies.origins_plus_plus]]
 modId = "minecraft"
 mandatory = true
-versionRange = "[1.19.2,)"
+versionRange = "[1.19.2]"
 
 [[dependencies.origins_plus_plus]]
 modId = "origins"
