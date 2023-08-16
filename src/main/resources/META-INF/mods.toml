@@ -22,7 +22,7 @@ versionRange = "[1.19.2]"
 [[dependencies.origins_plus_plus]]
 modId = "origins"
 mandatory = true
-versionRange = "[1.19.2-1.5.0.6,)"
+versionRange = "[1.19.2-1.7.1.1,)"
 
 [[dependencies.origins_plus_plus]]
 modId = "pehkui"
