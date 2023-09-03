@@ -33,8 +33,3 @@ versionRange = "[3.4.0,)"
 modId = "xlpackets"
 mandatory = true
 versionRange = "[1.18.2-2,)"
-
-[[dependencies.origins_plus_plus]]
-modId = "connectivity"
-mandatory = true
-versionRange = "[1.19.2-3.4,)"
