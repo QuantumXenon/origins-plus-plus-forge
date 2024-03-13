@@ -10,7 +10,7 @@ minecraft {
 }
 
 dependencies {
-    minecraft("net.neoforged:forge:${project.minecraft_version}-${project.neoforge_version}")
+    minecraft("net.neoforged:forge:${project.minecraft_version}-${project.forge_version}")
 }
 
 sourceSets {
