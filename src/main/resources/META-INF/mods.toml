@@ -1,17 +1,17 @@
 modLoader = "javafml"
 loaderVersion = "[43,)"
-license = "MIT"
+license = "All Rights Reserved (to the original authors)"
 
 [[mods]]
 modId = "origins_plus_plus"
 version = "${version}"
 displayName = "Origins++"
-description = "A collection of more than 100 origins to fully expand the origins experience."
+description = "A collection of more than 100 origins."
 
 displayURL = "https://www.curseforge.com/minecraft/mc-mods/origins-plus-plus"
 issueTrackerURL = "https://github.com/QuantumXenon/origins-plus-plus/issues"
 authors = "TheQuantumXenon"
-credits = "All the original authors (Go to https://gist.github.com/QuantumXenon/d7ec9ceee0f8897410cff5088307f028 for a list)."
+credits = "All the original authors (See https://gist.github.com/QuantumXenon/d7ec9ceee0f8897410cff5088307f028 for a list)."
 logoFile = "icon.png"
 
 [[dependencies.origins_plus_plus]]
@@ -22,7 +22,7 @@ versionRange = "[1.19.2,)"
 [[dependencies.origins_plus_plus]]
 modId = "origins"
 mandatory = true
-versionRange = "[1.19.2-1.7.1.1,)"
+versionRange = "[1.19.2-1.7.1.7,)"
 
 [[dependencies.origins_plus_plus]]
 modId = "pehkui"
@@ -32,4 +32,4 @@ versionRange = "[3.4.0,)"
 [[dependencies.origins_plus_plus]]
 modId = "xlpackets"
 mandatory = true
-versionRange = "[1.18.2-2,)"
+versionRange = "[1.18.2-2.1,)"
